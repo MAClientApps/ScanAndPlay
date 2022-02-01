@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839953512969",
+    "project_id": "scan-and-play",
+    "storage_bucket": "scan-and-play.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839953512969:android:4b4fbc08e37d632a0316d8",
+        "android_client_info": {
+          "package_name": "com.scnnplyapp.appsnanply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839953512969-hp5oacr6mb8la88kfmavsvm6k48fimf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUzqW6pCnoUeAJU-gsGMSEZVZvpbBS9IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839953512969-hp5oacr6mb8la88kfmavsvm6k48fimf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

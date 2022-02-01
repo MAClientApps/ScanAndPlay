@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scan And Play</string>
+    <string name="app_scheme">scnanply</string>
+    <string name="error_internet">Please check your internet connection!</string>
+    <string name="alertTitle">No Internet Connection</string>
+    <string name="alertMsg">Please check your Internet connection and try again</string>
+    <string name="alertBtn">RETRY</string>
+    <string name="alertBtnOK">OK</string>
+</resources>
